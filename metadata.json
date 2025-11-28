@@ -1,0 +1,7 @@
+{
+  "name": "VisionAI - Reconocimiento de Objetos",
+  "description": "Una aplicación web progresiva que utiliza la cámara de tu dispositivo y la IA de Gemini para identificar objetos en el mundo real al instante.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
